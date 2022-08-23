@@ -1,0 +1,14 @@
+.button {
+  padding: 10px;
+  width: 100%;
+  max-width: 10rem;
+  border-radius: 15px;
+  background-color: skyblue;
+  border: 5px solid black;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.button--danger {
+  background-color: hotpink;
+}
